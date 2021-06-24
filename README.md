@@ -1,6 +1,6 @@
 
 # Health_form_bot for UT students
-[健康管理フォーム](https://www.u-tokyo.ac.jp/covid-19/ja/safety/healthcheck.html)を自動で提出してくれる
+東大の[健康管理フォーム](https://www.u-tokyo.ac.jp/covid-19/ja/safety/healthcheck.html)を自動で提出してくれる
 
 ## For Mac User
 Automatorでシェルスクリプトを実行(/bin/bash)で、
