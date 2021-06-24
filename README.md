@@ -1,5 +1,5 @@
 
-# Health_form_bot_for_UTstudents
+# Health_form_bot for UT students
 [健康管理フォーム](https://www.u-tokyo.ac.jp/covid-19/ja/safety/healthcheck.html)を自動で提出してくれる
 
 ## For Mac User
