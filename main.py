@@ -90,6 +90,10 @@ def login_form(driver):
     time.sleep(6)
 
 def write_form(driver):
+    elem=driver.find_elements_by_name("rcf0d6c6b589745eea1be3c7cc10165c5")
+    elem[2].click()#希望しない
+    elem=driver.find_elements_by_class_name("button-content")
+    elem[1].click()
     element=driver.find_element_by_name("rc1e8d25040ac4f3d97e729dbef1505b8")
     element.click()#メール
     element = driver.find_element_by_name('r90d51a81a7334f2daef489720c271c85')
